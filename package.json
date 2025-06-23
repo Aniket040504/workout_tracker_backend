@@ -1,0 +1,25 @@
+{
+  "name": "workout_tracker_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket040504/workout_tracker_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniket040504/workout_tracker_backend/issues"
+  },
+  "homepage": "https://github.com/Aniket040504/workout_tracker_backend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.0",
+    "nodemon": "^3.1.10"
+  }
+}
